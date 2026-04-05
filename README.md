@@ -136,13 +136,6 @@ Link do KAGGLE: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?sele
 
 ---
 
-## Documentação adicional
-
-- [Guia de Setup completo](docs/SETUP.md)
-- [Dicionário de Dados](docs/DATA_DICTIONARY.md)
-
----
-
 
 
 RESULTADO DA EXECUÇÃO DO PIPELINE
